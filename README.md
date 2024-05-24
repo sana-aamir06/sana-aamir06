@@ -1,4 +1,4 @@
-![LOGO](https://github.com/sana-aamir06/sana-aamir06/blob/main/banner22.png)
+
 <h1 align="center">Hi 👋, I'm Sana Aamir</h1>
 <h3 align="center">A dedicated front-end developer from Pakistan</h3>
 <img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif"> 
